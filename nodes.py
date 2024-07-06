@@ -661,7 +661,7 @@ NODE_CLASS_MAPPINGS = {
     "NormalizedAmplitudeDrivenString" : NormalizedAmplitudeDrivenString
 }
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "LoadAudio": "Load Audio",
+    "LoadAudio": "Load Audio Scheduler",
     "LoadVHSAudio": "Load VHS Audio",
     "AudioToFFTs": "Audio to FFTs",
     "AudioToAmplitudeGraph": "Audio to Amplitude Graph",
